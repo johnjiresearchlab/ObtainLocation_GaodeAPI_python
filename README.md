@@ -1,0 +1,2 @@
+# ObtainLocation_GaodeAPI_python
+封装小技巧：以BNU数据为例，运用程序语言Python（in Google colab)以及高德API来获取某一地址的具体经纬度数据
